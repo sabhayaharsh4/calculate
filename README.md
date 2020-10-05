@@ -13,3 +13,6 @@ Create testing.py, import Ot, QMainWindow, QLineEdit, QGridLayout, QPushButton, 
     Now, construct class GUI which calls constructor of QMainWindow.
     Using different widget and layout functions, define the calculator's look and layout as needed.
    
+Step-3:
+
+Create main.py and import sys package.
