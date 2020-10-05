@@ -1,5 +1,4 @@
-
-#Calculator 
+ #Calculator 
 
  This model is perfect for understanding how the basic GUI features work in Python.
 Steps to create the calculator
